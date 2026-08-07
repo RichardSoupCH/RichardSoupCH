@@ -2,7 +2,13 @@
 
 # Richard Silva Venuto
 
-**Sistemas de Informação - IFMG**
+### Sistemas de Informação @ IFMG
+
+Desenvolvimento de Software • C++ • Desenvolvimento Web
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Learning+by+building.;Always+improving.;Welcome+to+my+GitHub."/>
 
 </div>
 
@@ -12,17 +18,15 @@
 
 Sou estudante de **Sistemas de Informação** no **IFMG**.
 
-Atualmente, concentro meus estudos em programação, estruturas de dados e desenvolvimento web, buscando transformar teoria em projetos práticos.
+Tenho interesse em desenvolvimento de software e gosto de aprender criando projetos. Atualmente meus estudos são focados em **C++**, desenvolvimento web e fundamentos de ciência da computação.
+
+<br>
 
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,tailwind,mysql,git,github,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,tailwind,mysql,git,github,vscode&perline=5"/>
 </p>
 
-<div align="center">
-
-<a href="https://github.com/RichardSoupCH"> <img src="https://img.shields.io/badge/GitHub-RichardSoupCH-181717?style=for-the-badge&logo=github" /> </a>
-
-</div>
+<br>
 
