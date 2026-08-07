@@ -1,16 +1,14 @@
-## Hi there 👋
+Sou Richard Silva Venuto, estudante de Sistemas de Informação no IFMG e interessado em desenvolvimento de software.
 
-<!--
-**RichardSoupCH/RichardSoupCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estudo principalmente:
 
-Here are some ideas to get you started:
+💻 C++
+🌐 HTML, CSS e JavaScript
+⚛️ React
+🎨 Tailwind CSS
+🗄️ Banco de Dados
+📚 Estruturas de Dados e Algoritmos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub Stats
+
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=RichardSoupCH&show_icons=true&theme=transparent" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSoupCH&layout=compact&theme=transparent" /> </p>
