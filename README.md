@@ -18,7 +18,7 @@ Desenvolvimento de Software • C++ • Desenvolvimento Web
 
 Sou estudante de **Sistemas de Informação** no **IFMG**.
 
-Tenho interesse em desenvolvimento de software e gosto de aprender criando projetos. Atualmente meus estudos são focados em **C++**, desenvolvimento web e fundamentos de ciência da computação.
+Tenho interesse em desenvolvimento de software. Atualmente meus estudos são focados em **C++**, desenvolvimento web e fundamentos de ciência da computação.
 
 <br>
 
