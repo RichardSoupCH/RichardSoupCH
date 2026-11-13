@@ -30,3 +30,6 @@ Tenho interesse em desenvolvimento de software. Atualmente meus estudos são foc
 
 <br>
 
+<div align="center">
+  <img src="./dvd.svg" width="100%" alt="DVD Screensaver"/>
+</div>
